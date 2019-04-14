@@ -8,10 +8,15 @@ Using a novel dataset of 1069K messages from 30K users posted on the microbloggi
 
 Keywords : 'network, autoregression, high-dimensional inference, sentiment weight, stocktwits'
 
-See also : ''
-
 Author : 'Yegor Klochkov'
 
 Submitted : 'April 14 2019 by Yegor Klochkov'
 
-Example : ''
+Datafile : 'Daily entries of aggregated sentiment weights for AAPL and BTC
+- data/users_daily_timeseries_AAPL.csv
+- data/users_BTC_timeseries_Daily.csv'
+
+Example : 'Heatmap visualisation of Theta
+- results/theta_daily_AAPL.png
+- results/theta_daily_BTC.png'
+
