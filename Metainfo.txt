@@ -1,4 +1,4 @@
-Name of QuantLet : Opinion_Networks_in_Social_Media
+Name of QuantLet : ONSM
 
 Published in : ''
 
