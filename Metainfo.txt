@@ -12,6 +12,10 @@ Author : 'Yegor Klochkov'
 
 Submitted : 'April 14 2019 by Yegor Klochkov'
 
-Datafile : 'Daily entries of aggregated sentiment weights for AAPL and BTC in data/users_daily_timeseries_AAPL.csv,  data/users_BTC_timeseries_Daily.csv, respectively'
+Datafile :
+- data/users_daily_timeseries_AAPL.csv
+- data/users_BTC_timeseries_Daily.csv
 
-Example : 'Heatmap visualisation of Theta in results/theta_daily_AAPL.png and results/theta_daily_BTC.png, respectively'
+Example :
+- theta_daily_AAPL.png
+- theta_daily_BTC.png
