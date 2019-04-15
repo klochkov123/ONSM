@@ -8,8 +8,8 @@ from alternating import matrix_competition
 
 if __name__ == '__main__':
     tasks = [
-        ('data/users_daily_timeseries_AAPL.csv', "results/theta_daily_AAPL.png")
-        , ('data/users_BTC_timeseries_Daily.csv', "results/theta_daily_BTC.png")
+        ('data/users_daily_timeseries_AAPL.csv', "theta_daily_AAPL.png")
+        , ('data/users_BTC_timeseries_Daily.csv', "theta_daily_BTC.png")
     ]
 
     for task in tasks:
